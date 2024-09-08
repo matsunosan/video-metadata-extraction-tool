@@ -1,6 +1,8 @@
 # Video Metadata Extraction Tool
 
 This tool extracts metadata from video files in various formats, such as MP4, MOV, AVI, WMV, and MKV. The metadata can be saved as text files and displayed within the app.
+![image](https://github.com/user-attachments/assets/afe40fc5-e924-4c6e-ad6a-240e1301851f)
+
 
 ## Features
 
